@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Duresa Eshetu</h1>
-<h3 align="center">A passionate mining Engineer and developer from Ethiopia</h3>
-<img align="riht" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDzjtqte7X2JkaUHcLygG4rxOAePYiGHlmg&usqp=CAU"
+<h3 align="center"> Mining Engineer and Developer from Ethiopia</h3>
+<img align="center" alt="Coding" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDzjtqte7X2JkaUHcLygG4rxOAePYiGHlmg&usqp=CAU"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durdure&label=Profile%20views&color=0e75b6&style=flat" alt="durdure" /> </p>
 
