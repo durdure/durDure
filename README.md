@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Duresa Eshetu</h1>
+<h1 align="center">Hi 👋, this is Duresa</h1>
 <h3 align="center"> Mining Engineer and Developer from Ethiopia</h3>
-<img align="center" alt="Coding" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDzjtqte7X2JkaUHcLygG4rxOAePYiGHlmg&usqp=CAU"
+<img align="center" alt="Coding" width="800" src="[(https://knowlab.in/wp-content/uploads/2023/01/top-ide-software-770x433-1.jpeg)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durdure&label=Profile%20views&color=0e75b6&style=flat" alt="durdure" /> </p>
 
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **mining Engineering, Alx Sofware Enginering**
 
-- 📫 How to reach me **duresaeshetu09@gmail.com**
+- 📫 How to reach me **duresaeshetu09@gmail.com and duresaeshetu2001@gmail.com**
 
-- ⚡ Fun fact **I think I'm very positive person**
+- ⚡ Fun fact **I think I'm very not to much fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
