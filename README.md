@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, this is Duresa</h1>
 <h3 align="center"> Mining Engineer and trying to be Developer from Ethiopia</h3>
-<img align="center" alt="Coding" width="800" src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg"
+<img align="center" alt="Coding" width="800" src="https://raw.githubusercontent.com/lowlighter/metrics/ca50bdccca443651a8cfac8bc9ed564ed514da29/metrics.plugin.stargazers.worldmap.svg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durdure&label=Profile%20views&color=0e75b6&style=flat" alt="durdure" /> </p>
 
