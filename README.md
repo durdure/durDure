@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, this is Duresa</h1>
-<h3 align="center"> Mining Engineer </h3>
+<h3 align="center"> Mining Engineer and SWE </h3>
 <img align="center" alt="Coding" width="800" src="[https://raw.githubusercontent.com/lowlighter/metrics/ca50bdccca443651a8cfac8bc9ed564ed514da29/metrics.plugin.stargazers.worldmap.svg](https://www.thisiscolossal.com/2014/03/the-hypnotic-animated-gifs-of-david-szakaly/)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durdure&label=Profile%20views&color=0e75b6&style=flat" alt="durdure" /> </p>
