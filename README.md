@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **mining Engineering, Alx Sofware Enginering**
+<h6 align= "center" - 🌱 I’m currently learning **mining Engineering, Alx Sofware Enginering**</h6>
 
 - 📫 How to reach me **duresaeshetu09@gmail.com and duresaeshetu2001@gmail.com**
 
