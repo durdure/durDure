@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mining Engineering**
 
-- 💬 Ask me about **react, CSS , Python, C**
+- 💬 Ask me about **HTML, CSS , Python, C, Networking, MySQL**
 
 - 📫 How to reach me **duresaeshetu2001@gmail.com**
 
