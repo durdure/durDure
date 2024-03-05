@@ -1,5 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=durdure&label=Profile%20views&color=0e75b6&style=flat" alt="durdure" /> </p>
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Duresa+Eshetu!;" />
 </h1>
@@ -9,15 +10,20 @@
 <br>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="center>
-- 🌱 I’m currently learning **Front **
 
-- 💬 Ask me about **react, CSS , Python, C**
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-- 📫 How to reach me **duresaeshetu2001@gmail.com**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-- ⚡ Fun fact **I think I funny**
-</p>
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
