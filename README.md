@@ -1,9 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=durdure.durDure" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=durdure&label=Profile%20views&color=0e75b6&style=flat" alt="durdure" /> </p>
 
 <h1 align="center">Hi 👋, I'm Duresa Eshetu</h1>
 <h3 align="center">A passionate developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durdure&label=Profile%20views&color=0e75b6&style=flat" alt="durdure" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="durdure" /></a> </p>
 
