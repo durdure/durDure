@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate developer from Ethiopia</h3>
 
-
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="durdure" /></a> </p>
 
