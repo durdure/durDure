@@ -35,7 +35,6 @@
   </a>
 </div>
 
-
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -47,6 +46,17 @@
 </div>
 
 <br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/durdure/durDure/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durdure&show_icons=true&locale=en&layout=compact" alt="durdure" /></p>
 
