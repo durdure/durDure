@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=durdure.durDure" />
+
 <h1 align="center">Hi 👋, I'm Duresa Eshetu</h1>
 <h3 align="center">A passionate developer from Ethiopia</h3>
 
