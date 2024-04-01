@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **E-commerce**
+ 🔭 I’m currently working on **Online-learning Strategy and Platform**
  
  🌱 I’m currently learning **Native React, Git, AWS**
 
