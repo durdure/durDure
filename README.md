@@ -5,7 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Duresa+Eshetu!;" />
 </h1>
 
-<h3 align="center">A passionate developer from Ethiopia</h3>
+<h3 align="center">
+As a passionate developer from Ethiopia, I embrace the power of technology to create meaningful change. Growing up in Addis Ababa, I’ve seen how innovation can bridge gaps and open doors for communities. My journey in programming has equipped me with skills in languages like JavaScript and Python, fueling my desire to build user-friendly solutions that address real-world challenges. I actively engage in the tech community, participating in meetups and sharing knowledge with fellow developers. My commitment is to leverage technology not just for personal growth, but to inspire others and contribute to Ethiopia’s thriving digital landscape.
+!</h3>
 
 <br>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
